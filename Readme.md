@@ -36,6 +36,11 @@ Data Source: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-
     * Support Vector Machine
     * Random Forest
 
+* Performed Model Evaluation using the following metrics:
+    * Confusion Matrix
+    * Classification Reports for hyperparameter tuned models
+    * Accuracy Score
+
 ==================================================================
 
 * Product prototype:
