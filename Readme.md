@@ -4,15 +4,15 @@
 
 Data Source: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
-![heart_image](https://storage.googleapis.com/kaggle-datasets-images/1582403/2603715/fc66626bcce9dec0f401f3f69c2ab2d1/dataset-cover.jpg?t=2021-09-10-18-13-42)
+![heart_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHT9SDi06Zxct77u4FeQuE3188ywi9xH9jg&usqp=CAU)
 
-===============================================================================================
+==================================================================
 
 * Attributes of the dataset: Described in HDRP_attributes text file
 
 * Some Visualizations saved separately to view the distribution of the above dataset
 
-===============================================================================================
+==================================================================
 
 ### *Actions Performed on the dataset:*
 
@@ -36,11 +36,11 @@ Data Source: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-
     * Support Vector Machine
     * Random Forest
 
-===============================================================================================
+==================================================================
 
 * Product prototype:
     * A web application (CardioCare) that allows users to predict the risk of heart disease based on their health profile.
     * To be deployed on Heroku using Flask framework.
     * Basic layouts and flowcharts are provided.
 
-===============================================================================================
+==================================================================
