@@ -6,13 +6,13 @@ Data Source: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-
 
 ![heart_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHT9SDi06Zxct77u4FeQuE3188ywi9xH9jg&usqp=CAU)
 
-==================================================================
+***
 
 * Attributes of the dataset: Described in HDRP_attributes text file
 
 * Some Visualizations saved separately to view the distribution of the above dataset
 
-==================================================================
+***
 
 ### *Actions Performed on the dataset:*
 
@@ -41,11 +41,15 @@ Data Source: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-
     * Classification Reports for hyperparameter tuned models
     * Accuracy Score
 
-==================================================================
+***
+
+* Final Report : [HDRP_report](https://drive.google.com/file/d/1CRxlAPTUXtJB-J1GqT7lkqG3VRVknvIG/view?usp=sharing)
+
+***
 
 * Product prototype:
     * A web application (CardioCare) that allows users to predict the risk of heart disease based on their health profile.
     * To be deployed on Heroku using Flask framework.
     * Basic layouts and flowcharts are provided.
 
-==================================================================
+***
